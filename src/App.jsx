@@ -171,8 +171,8 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-100 p-4">
-      <div className='max-w-4x1 mx-auto bg-white p-6 rounded-2x1 shadow-md'>
-        <h1 className='text-3x1 font-bold mb-6 text-center text-gray-800'>Registro de Rutinas</h1>
+      <div className='max-w-4xl mx-auto bg-white p-6 rounded-2xl shadow-md'>
+        <h1 className='text-3xl font-bold mb-6 text-center text-gray-800'>Registro de Rutinas</h1>
 
       {/* Pestañas */}
       <div style={{ display: 'flex', gap: '8px', marginBottom: '16px'}}>
