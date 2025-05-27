@@ -171,6 +171,9 @@ function App() {
 
   return (
     <div className="container">
+      <div className="bg-red-500 text-white p-4 rounded-lg shadow-md">
+        Tailwind está funcionando 🎉
+      </div>
       <h1>Registro de Rutinas</h1>
 
       {/* Pestañas */}
